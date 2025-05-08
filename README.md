@@ -120,21 +120,4 @@ A global event uniting researchers, data scientists, microbiologists & clinician
 
 ---
 
-## 👥 Get Involved
-
-- Add your **intro bio** to the shared doc:  
-[Google Doc for Participants](https://docs.google.com/document/d/11JV_BmxKXAiPQiNiowL35ANWoi2sVJWk1Wt6j74XlZ8/edit?usp=sharing)
-
-- Join discussions, pitch your ideas, and form teams.
-
----
-
-## 💬 Open Discussion
-
-- Clarify logistics, resources, or workflows  
-- Finalize ideas and group allocations  
-- Shape the future of microbial bioinformatics together
-
----
-
 For more information, visit the [official event site](https://www.bio.cam.ac.uk/11th-microbial-bioinformatics-hackathon).
